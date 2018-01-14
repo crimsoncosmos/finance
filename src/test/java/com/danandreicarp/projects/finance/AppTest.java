@@ -8,7 +8,7 @@ import java.math.BigDecimal;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * @author <a href="mailto:carpdan@amazon.com">Dan Andrei Carp</a>
+ * @author <a href="mailto:dan.andrei.carp@gmail.com">Dan Andrei Carp</a>
  */
 class AppTest {
 
